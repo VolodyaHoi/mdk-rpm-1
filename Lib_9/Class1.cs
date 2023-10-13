@@ -8,6 +8,7 @@ namespace Lib_9
 {
     public class Class1
     {
+        // добавил комментарии
         public int sumOfNumbers(int n) // Сформировать n целых чисел в диапазоне 2-14. Найти сумму чисел < 8. Результат 
                                        // вывести на экран.
         {
